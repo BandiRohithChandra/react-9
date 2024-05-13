@@ -1,0 +1,9 @@
+/* Write your code here. */
+
+.nav-element {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100vh;
+  color: #ffffff;
+  padding: 20px;
+  display: flex;
+}

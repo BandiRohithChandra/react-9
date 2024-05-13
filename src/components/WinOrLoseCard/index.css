@@ -1,0 +1,17 @@
+/* Write your code here. */
+
+.button {
+  background-color: #ffce27;
+  border-radius: 8px;
+  padding: 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.card-container {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  border-radius: 10px;
+}
